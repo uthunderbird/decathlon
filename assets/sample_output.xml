@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TournamentResult xmlns="kz.sports.decathlon">
+    <Participant name="John Smith" place="1" totalPoints="4275">
+        <EventResult name="100 m" type="track">12.61</EventResult>
+        <EventResult name="Long jump" type="field_centimeters">5.00</EventResult>
+        <EventResult name="Shot put" type="field">9.22</EventResult>
+        <EventResult name="High jump" type="field_centimeters">1.50</EventResult>
+        <EventResult name="400 m" type="track">60.39</EventResult>
+        <EventResult name="110 m hurdles" type="track">16.43</EventResult>
+        <EventResult name="Discus throw" type="field">21.60</EventResult>
+        <EventResult name="Pole vault" type="field_centimeters">2.60</EventResult>
+        <EventResult name="Javelin throw" type="field">35.81</EventResult>
+        <EventResult name="1500 m" type="track_minute">5.25.72</EventResult>
+    </Participant>
+    <Participant name="Jaan Lepp" place="2" totalPoints="3555">
+        <EventResult name="100 m" type="track">13.75</EventResult>
+        <EventResult name="Long jump" type="field_centimeters">4.84</EventResult>
+        <EventResult name="Shot put" type="field">10.12</EventResult>
+        <EventResult name="High jump" type="field_centimeters">1.50</EventResult>
+        <EventResult name="400 m" type="track">68.44</EventResult>
+        <EventResult name="110 m hurdles" type="track">19.18</EventResult>
+        <EventResult name="Discus throw" type="field">30.85</EventResult>
+        <EventResult name="Pole vault" type="field_centimeters">2.80</EventResult>
+        <EventResult name="Javelin throw" type="field">33.88</EventResult>
+        <EventResult name="1500 m" type="track_minute">6.22.75</EventResult>
+    </Participant>
+    <Participant name="Jane Doe" place="3" totalPoints="3266">
+        <EventResult name="100 m" type="track">13.04</EventResult>
+        <EventResult name="Long jump" type="field_centimeters">4.53</EventResult>
+        <EventResult name="Shot put" type="field">7.79</EventResult>
+        <EventResult name="High jump" type="field_centimeters">1.55</EventResult>
+        <EventResult name="400 m" type="track">64.72</EventResult>
+        <EventResult name="110 m hurdles" type="track">18.74</EventResult>
+        <EventResult name="Discus throw" type="field">24.20</EventResult>
+        <EventResult name="Pole vault" type="field_centimeters">2.40</EventResult>
+        <EventResult name="Javelin throw" type="field">28.20</EventResult>
+        <EventResult name="1500 m" type="track_minute">6.50.76</EventResult>
+    </Participant>
+    <Participant name="Foo Bar" place="4" totalPoints="3163">
+        <EventResult name="100 m" type="track">13.43</EventResult>
+        <EventResult name="Long jump" type="field_centimeters">4.35</EventResult>
+        <EventResult name="Shot put" type="field">8.64</EventResult>
+        <EventResult name="High jump" type="field_centimeters">1.50</EventResult>
+        <EventResult name="400 m" type="track">66.06</EventResult>
+        <EventResult name="110 m hurdles" type="track">19.05</EventResult>
+        <EventResult name="Discus throw" type="field">24.89</EventResult>
+        <EventResult name="Pole vault" type="field_centimeters">2.20</EventResult>
+        <EventResult name="Javelin throw" type="field">33.48</EventResult>
+        <EventResult name="1500 m" type="track_minute">6.51.01</EventResult>
+    </Participant>
+</TournamentResult>
