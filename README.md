@@ -10,7 +10,7 @@ You should build jar:
 
 and then run it like this: 
 ```
-java -jar target/decathlon-scoring-1.0-SNAPSHOT.jar assets/sample_input3.csv
+java -jar target/decathlon-scoring-1.0-SNAPSHOT.jar assets/sample_input3.csv > output.xml
 ```
 
 ## Testing
